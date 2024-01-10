@@ -20,6 +20,12 @@
 -->
 ## Release Notes for cordova-plugin-chromecast
 
+### 3.0.0 (2024-01-10)
+
+* Update eslint depedencies
+* (android) BREAKING - Updated Google Cast SDK (android -> 21.4.0)
+    * Google Cast SDK - [android 21.4.0](https://developers.google.com/cast/docs/release-notes#december-10-2020) has minimum android 5.0
+
 ### 2.0.1 (2020-11-28)
 
 * (ios) Bug Fix - media loaded without any metadata caused crash
